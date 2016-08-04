@@ -1,0 +1,25 @@
+_repo: History-of-Phoenicia_2331
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rawlinson, George
+    birthdate: 1812
+    deathdate: 1902
+    gutenberg_agent_id: '872'
+    url: http://www.gutenberg.org/2009/agents/872
+    wikipedia: http://en.wikipedia.org/wiki/George_Rawlinson
+description: ''
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2331'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phoenicia -- History'
+- !lcc 'DS'
+- GITenberg
+title: History of Phoenicia
+url: http://www.gutenberg.org/ebooks/2331
